@@ -7,7 +7,7 @@ Please file code-level issues regarding [chrultrabook](https://github.com/chrult
 
 ### Project Status
 
-| Name | Issues |
+| Name | Status |
 |:-----|:-------------|
 | bugtracker | <img src="https://img.shields.io/github/issues-raw/chrultrabook/bugtracker?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/bugtracker?style=square">
 | docs | <img src="https://img.shields.io/github/issues-raw/chrultrabook/docs?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/docs?style=square">
