@@ -42,7 +42,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Device:**
  
- Note: Pleast include boardname as well.
+ Note: Please include boardname as well.
 
 
 
