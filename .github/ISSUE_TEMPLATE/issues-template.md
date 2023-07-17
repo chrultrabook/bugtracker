@@ -1,7 +1,6 @@
 ---
 name: Generic Issues Template
 about: Use this for reporting issues.
-title: Issues Template
 assignees: ''
 ---
 
