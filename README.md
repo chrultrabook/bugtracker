@@ -21,6 +21,7 @@ Please file code-level issues regarding [chrultrabook](https://github.com/chrult
 | croskblight-wilco  | <img src="https://img.shields.io/github/issues-raw/chrultrabook/croskblight-wilco?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/croskblight-wilco?style=square">
 | crosecbus  | <img src="https://img.shields.io/github/issues-raw/chrultrabook/crosecbus?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/crosecbus?style=square">
 | VivaldiKeyboardTester  | <img src="https://img.shields.io/github/issues-raw/chrultrabook/VivaldiKeyboardTester?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/VivaldiKeyboardTester?style=square">
-| croskeyboard4 | <img src="https://img.shields.io/github/issues-raw/chrultrabook/mainboot?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/croskeyboard4?style=square">
-
-
+| crossensors | <img src="https://img.shields.io/github/issues-raw/chrultrabook/crossensors?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/crossensors?style=square">
+| croskeyboard4 | <img src="https://img.shields.io/github/issues-raw/chrultrabook/croskeyboard4?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/croskeyboard4?style=square">
+| crosecvivaldi | <img src="https://img.shields.io/github/issues-raw/chrultrabook/crosecvivaldi?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/crosecvivaldi?style=square">
+| rt5682s  | <img src="https://img.shields.io/github/issues-raw/chrultrabook/rt5682s?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/rt5682s?style=square">
