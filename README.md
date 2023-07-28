@@ -50,4 +50,4 @@ Please file code-level issues regarding [chrultrabook](https://github.com/chrult
 | crostouchscreen2-melfas | <img src="https://img.shields.io/github/issues-raw/chrultrabook/crostouchscreen2-melfas?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/crostouchscreen2-melfas?style=square">
 | crostouchscreen2 | <img src="https://img.shields.io/github/issues-raw/chrultrabook/crostouchscreen2?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/crostouchscreen2?style=square">
 | max98090 | <img src="https://img.shields.io/github/issues-raw/chrultrabook/max98090?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/max98090?style=square">
-
+| keydconfig | <img src="https://img.shields.io/github/issues-raw/chrultrabook/keydconfig?style=flat"> <img src="https://img.shields.io/github/issues-pr-raw/chrultrabook/keydconfig?style=square">
